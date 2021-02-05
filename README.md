@@ -1,12 +1,17 @@
 # crud Java com Arraylist
 
 <b>Pacotes -> classes </b>
- -[x] Conexão com o banco 👈 <td> ConnectionFactory </td>
- -[x] DAO 👈 ContatoDao FuncionarioDao
- -[x] model 👈 Contato Funcionario
+ - [x] AcoesProduto :point_right: <i> Produto </i>
+ - [x] Pessoa :point-_right: <i> Cliente </i> / <i> Gerente </i> / <i> Pessoa </i> 
+ - [x] Main :point_left: 
+ 
 Operações realizadas
-1️⃣ - adicionar
-2️⃣ - listar 
-3️⃣ - alterar 
-4️⃣ - pesquisar 
-5️⃣ - remove
+:one: - adicionar
+:two: - listar 
+:three: - alterar 
+:four: - remover
+
+
+getters e setters
+interface
+sobescrita
